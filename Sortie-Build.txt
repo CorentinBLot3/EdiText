@@ -1,0 +1,4 @@
+﻿L'opération de génération a démarré...
+1>------ Début de la génération : Projet : EdiText, Configuration : Debug Any CPU ------
+1>C:\Users\corentin.blot\source\repos\EdiText\Form1.Designer.cs(71,81,71,111): error CS1061: 'Form1' ne contient pas de définition pour 'toolStripDropDownButton1_Click' et aucune méthode d'extension accessible 'toolStripDropDownButton1_Click' acceptant un premier argument de type 'Form1' n'a été trouvée (une directive using ou une référence d'assembly est-elle manquante ?)
+========== Génération : 0 a réussi, 1 a échoué, 0 à jour, 0 a été ignoré ==========
